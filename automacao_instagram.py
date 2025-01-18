@@ -37,7 +37,3 @@ pyautogui.write("Digite sua senha Aqui")
 pyautogui.press("Tab")
 pyautogui.press("Tab")
 pyautogui.press("Enter")
-#Passo 1 Abrir a Web
-#Passo 2 Entrar no Site do Instagram 
-#Passo 3 Fazer Login
-#Seguir Usuários
