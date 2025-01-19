@@ -37,3 +37,16 @@ pyautogui.write("Digite sua senha Aqui")
 pyautogui.press("Tab")
 pyautogui.press("Tab")
 pyautogui.press("Enter")
+
+pyautogui.sleep (5)
+#Clicar na Barra Pesquisar Para Achar o Perfil a entrar
+pyautogui.click(x=33, y=298)
+
+pyautogui.sleep (3)
+#Clicar no Perfil
+pyautogui.click(x=264, y=363)
+
+#Clicar nos Seguidores
+pyautogui.click(x=848, y=230)
+
+#Ir Clicando e Seguindo um por um até o final
